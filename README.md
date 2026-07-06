@@ -19,8 +19,11 @@ Graduate coursework projects from Georgetown's MS in Health Informatics & Data S
 ---
  
 ## 1. Brain Cancer Radiomics Analysis
+
 **HIDS-7009, Imaging Informatics — Spring 2026**
+
 Team: Stephanie Araki, Atluri, Peot, Shorish
+
 **Code:** [Brain Cancer Radiomics](https://github.com/StephAraki/hids-portfolio/tree/main/brain-cancer-radiomics)
  
 Built and externally validated a machine learning pipeline to classify brain tumor subtype (glioblastoma, oligodendroglioma, astrocytoma) from T1-weighted MRI radiomic features.
@@ -35,7 +38,9 @@ Built and externally validated a machine learning pipeline to classify brain tum
 ---
  
 ## 2. Memory Circle: Memory Care Management App
+
 **HIDS-7007, Digital Health Applications — Spring 2026**
+
 Team: Stephanie Araki, Nathan Peot, Amina Shorish, Ronak Singh
  
 A human-centered design project: conceived and prototyped a multi-stakeholder digital health platform connecting patients, caregivers, and providers to close the gap between clinical visits for memory care patients. The app itself was not built; the deliverable was the design and validation process.
@@ -52,7 +57,9 @@ A human-centered design project: conceived and prototyped a multi-stakeholder di
 ---
  
 ## 3. Liver Cancer Gene Expression & Immune Profiling
+
 **HIDS-7003, Precision Health Informatics — Fall 2025**
+
 Team: Stephanie Araki, Sonia Shah, Nathan Peot
  
 Analyzed TCGA liver hepatocellular carcinoma (LIHC) RNA-seq data across four clinical cancer stages to identify stage-specific biomarkers and immune remodeling patterns.
@@ -66,7 +73,9 @@ Analyzed TCGA liver hepatocellular carcinoma (LIHC) RNA-seq data across four cli
 ---
  
 ## 4. Critical Appraisal & Replication: Cleveland Heart Disease Dataset
+
 **HIDS-6004, Evidence-Based Data Analysis in Population Health — Fall 2025**
+
 Team: Stephanie Araki, Amina Eman Shorish
  
 Critically appraised and replicated another team's statistical analysis of the Cleveland Heart Disease dataset (303 patients) to test methodological soundness and reproducibility.
@@ -79,8 +88,11 @@ Critically appraised and replicated another team's statistical analysis of the C
 ---
  
 ## 5. Alzheimer's Diagnosis from Perfusion MRI
+
 **HIDS-7006, AI for Health Applications — Spring 2025**
+
 Solo project
+
 **Code:** [Alzheimer's Perfusion MRI](https://github.com/StephAraki/hids-portfolio/tree/main/alzheimers-perfusion-mri)
  
 Built machine learning models to classify cognitively normal, mild cognitive impairment (MCI), and Alzheimer's patients using cerebral blood flow (CBF) features from Arterial Spin Labeling (ASL) MRI, combined with demographic, genetic, and cognitive data.
@@ -94,7 +106,9 @@ Built machine learning models to classify cognitively normal, mild cognitive imp
 ---
  
 ## 6. Pediatric Health Data Commons
+
 **HIDS-7005, Advanced Health Informatics — Spring 2025**
+
 Team: Stephanie Araki, Hanane Bousfoul, Jay Nagabhairu, Sam Zocher
  
 Proposed a cloud-based, open-access data platform to help under-resourced nonprofit organizations conduct evidence-based pediatric health research.
@@ -107,7 +121,9 @@ Proposed a cloud-based, open-access data platform to help under-resourced nonpro
 ---
  
 ## 7. Streamlining STEMI Care with EMR Integration
+
 **HIDS-6002, Utilizing Data in Electronic Medical Records — Fall 2024**
+
 Team: Stephanie Araki, Maxwell Lewis, Jay Nagabhairu, Pari Shah
  
 Designed a clinical workflow intervention to reduce door-to-balloon (DTB) time for STEMI patients toward the 90-minute clinical guideline.
@@ -120,8 +136,11 @@ Designed a clinical workflow intervention to reduce door-to-balloon (DTB) time f
 ---
  
 ## 8. Prediction of Clinical Trial Attrition
+
 **HIDS-6001, Massive Health Data Fundamentals — Fall 2024**
+
 Team: Stephanie Araki, Pari Shah, Samantha Zocher
+
 **Code:** [Clinical Trial Attrition](https://github.com/StephAraki/hids-portfolio/tree/main/clinical-trial-attrition)
  
 Built a classification model predicting high vs. low patient attrition in clinical trials using data pulled live from the ClinicalTrials.gov API (1,325 trials).
