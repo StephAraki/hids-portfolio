@@ -21,7 +21,7 @@ Graduate coursework projects from Georgetown's MS in Health Informatics & Data S
 ## 1. Brain Cancer Radiomics Analysis
 **HIDS-7009, Imaging Informatics — Spring 2026**
 Team: Stephanie Araki, Atluri, Peot, Shorish
-**Code:** [github.com/StephAraki/brain-cancer-radiomics](https://github.com/StephAraki/brain-cancer-radiomics)
+**Code:** [github.com/StephAraki/brain-cancer-radiomics](https://github.com/StephAraki/hids-portfolio/brain-cancer-radiomics)
  
 Built and externally validated a machine learning pipeline to classify brain tumor subtype (glioblastoma, oligodendroglioma, astrocytoma) from T1-weighted MRI radiomic features.
  
@@ -81,7 +81,7 @@ Critically appraised and replicated another team's statistical analysis of the C
 ## 5. Alzheimer's Diagnosis from Perfusion MRI
 **HIDS-7006, AI for Health Applications — Spring 2025**
 Solo project
-**Code:** [github.com/StephAraki/alzheimers-perfusion-mri](https://github.com/StephAraki/alzheimers-perfusion-mri)
+**Code:** [github.com/StephAraki/alzheimers-perfusion-mri](https://github.com/StephAraki/hids-portfolio/alzheimers-perfusion-mri)
  
 Built machine learning models to classify cognitively normal, mild cognitive impairment (MCI), and Alzheimer's patients using cerebral blood flow (CBF) features from Arterial Spin Labeling (ASL) MRI, combined with demographic, genetic, and cognitive data.
  
@@ -122,7 +122,7 @@ Designed a clinical workflow intervention to reduce door-to-balloon (DTB) time f
 ## 8. Prediction of Clinical Trial Attrition
 **HIDS-6001, Massive Health Data Fundamentals — Fall 2024**
 Team: Stephanie Araki, Pari Shah, Samantha Zocher
-**Code:** [github.com/StephAraki/clinical-trial-attrition](https://github.com/StephAraki/clinical-trial-attrition)
+**Code:** [github.com/StephAraki/clinical-trial-attrition](https://github.com/StephAraki/hids-portfolio/clinical-trial-attrition)
  
 Built a classification model predicting high vs. low patient attrition in clinical trials using data pulled live from the ClinicalTrials.gov API (1,325 trials).
  
